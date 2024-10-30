@@ -7,7 +7,7 @@ services:
       replicas: 3
     ports:
       - "8081-8090:5000"
-      - "2300-2310:2306"
+      - "3300-3310:3306"
   ansible:
     build:
       context: ./ansible
