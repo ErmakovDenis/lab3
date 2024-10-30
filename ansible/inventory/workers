@@ -1,5 +1,5 @@
 [ansible_master]
-task2-ansible-1
+test3-ansible-1
 
 [database]
 task2-app-3
