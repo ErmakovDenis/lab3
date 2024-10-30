@@ -1,3 +1,3 @@
 FROM lab-agent
 
-RUN apt update && apt install -y ansible sshpass
+RUN apt-get update && apt-get install -y ansible sshpass
